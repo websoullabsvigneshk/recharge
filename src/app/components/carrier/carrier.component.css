@@ -1,0 +1,32 @@
+
+.uk-box-shadow-xlarge:hover{
+    border: 0.5px solid black;
+}
+.uk-column-1-6 {
+    column-count: 6;
+    margin-left: 75px;
+    margin-right: 510px;
+  
+}
+.uk-v{
+    color: #00373D;
+}
+.uk-list {
+   
+    margin-left: 405px;
+    text-size-adjust: -123px;
+}
+.uk-grid-column-medium, .uk-grid-medium {
+    margin-left: -89px;
+    margin-right: -58px;
+}
+
+
+.row {
+    margin-left: 3px;
+    margin-right: -10px;
+}
+.carriers-list-block a{
+    color: #00373d;
+   
+}

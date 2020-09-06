@@ -1,0 +1,23 @@
+.uk-heading-Small{
+    margin-top: -70px;
+ 
+    text-shadow: 0 0 5px #202020;
+}
+.uk-column-1-2{
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.uk-button{
+    background-color: rgb(0, 128, 0);
+    margin-left: 610px;
+}
+
+.col-xs-18{
+    margin-top: 54px;
+    margin-left: -40px;
+}
+.col-xs-3{
+    margin-left:310px ;
+    margin-top: 90px;
+   
+}

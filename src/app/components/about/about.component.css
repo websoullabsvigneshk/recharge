@@ -1,0 +1,30 @@
+
+.taxon-usps {
+    display: inline-block;
+    text-align: left;
+}
+.taxon-usp {
+    font-size: 148px;
+    line-height: 22px;
+}
+.taxon-usp {
+    color: #fff;
+    display: block;
+    font-size: 24px;
+    font-weight: 300;
+    padding: 8px 0;
+    margin-left: 294px;
+}
+.taxon-icon {
+    font-size: 1.4em;
+    margin-right: .2em;
+}
+.col-xs-18{
+    margin-top: 54px;
+    margin-left: -40px;
+}
+.col-xs-3{
+    margin-left:310px ;
+    margin-top: 90px;
+   
+}

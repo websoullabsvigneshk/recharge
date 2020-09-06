@@ -1,0 +1,122 @@
+.uk-heading-Small{
+    margin-top: -70px;
+ 
+    text-shadow: 0 0 5px #202020;
+}
+.uk-container-small{
+    margin-left: 500px;
+    margin-right: 500px;
+    background-color: white;
+    position: absolute;
+    right: 0;
+    top: 163px;
+    margin: 20px;
+    left: 500px;
+    max-width: 408px;
+    padding: 24px;
+    background-color: white;
+   
+}
+.uk-button{
+ background-color: rgb(0, 128, 0);
+ margin-left: 16px;
+ margin-right: 33px;
+ margin-bottom: 50px;
+
+
+}
+.uk-input  {
+    padding-right: 73px;
+    padding-left: 49px;
+    margin-left: -14px;
+}
+
+.uk-con{
+    margin-left: 355px;
+}
+
+
+.col-xs-4 {
+    width: 33.33333333%;
+}
+.widget-stars {
+    margin: 0px 16px 0 0;
+}
+
+
+
+
+.translations-customerssay{
+    margin-left: 660px;
+}
+.uk-height-medium{
+    margin-top: -0px;
+   
+}
+
+
+.taxon-usps {
+    display: inline-block;
+    text-align: left;
+}
+.taxon-usp {
+    font-size: 148px;
+    line-height: 22px;
+}
+.taxon-usp {
+    color: #fff;
+    display: block;
+    font-size: 24px;
+    font-weight: 300;
+    padding: 8px 0;
+    margin-left: 294px;
+}
+.taxon-icon {
+    font-size: 1.4em;
+    margin-right: .2em;
+}
+
+.uk-child-width{
+
+    display: block;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin-right :10px ;
+}
+
+.col-xs-3{
+    margin-left:310px ;
+    margin-top: 90px;
+   
+}
+.uk-text-right{
+
+    margin-right: 202px;
+    margin-top: -32px;
+    margin-bottom: 50px;
+}
+
+.iti--allow-dropdown input{
+    padding-right: 33px;
+    padding-left: 52px;
+    margin-left: 0;
+}
+
+.col-xs-18{
+    margin-top: 54px;
+    margin-left: -40px;
+}
+.uk-container-small {
+    margin-left: 500px;
+    margin-right: 500px;
+    background-color: white;
+    position: absolute;
+    right: 0;
+    top: 163px;
+    margin: 4px;
+    left: 455px;
+    max-width: 406px;
+    padding: 22px;
+    background-color: white;
+}
